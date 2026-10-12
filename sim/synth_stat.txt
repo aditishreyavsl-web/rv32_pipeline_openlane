@@ -1,0 +1,30 @@
+
+9. Printing statistics.
+
+=== rv32_core ===
+
+        +----------Local Count, excluding submodules.
+        | 
+     6765 wires
+    10909 wire bits
+      115 public wires
+     4197 public wire bits
+        9 ports
+      167 port bits
+     8401 cells
+      164   $_ANDNOT_
+     1702   $_AND_
+     1085   $_DFFE_PN0P_
+        3   $_DFFE_PN1P_
+      310   $_DFF_PN0_
+        1   $_DFF_PN1_
+     1302   $_MUX_
+     2694   $_NAND_
+      194   $_NOR_
+        6   $_NOT_
+      333   $_ORNOT_
+      366   $_OR_
+      119   $_XNOR_
+      118   $_XOR_
+        4   $scopeinfo
+
