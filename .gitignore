@@ -1,0 +1,6 @@
+openlane/runs/
+openlane/src/
+sim/*.vvp
+sim/*.vcd
+sim/*.log
+__pycache__/
